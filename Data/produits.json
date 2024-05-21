@@ -4,7 +4,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -12,7 +12,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -20,7 +20,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -28,7 +28,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -36,7 +36,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -44,7 +44,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -52,7 +52,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -60,7 +60,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -68,7 +68,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -76,7 +76,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -84,7 +84,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -92,7 +92,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -100,7 +100,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -108,7 +108,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   },
   {
@@ -116,7 +116,7 @@
     "NomProduit": "Imeron",
     "PrixProduit": "10 $  ",
     "Image": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715295908/imr_gqvzv6.webp",
-    "AddButton": "src/assets/image/plus.svg",
+    "AddButton": "https://res.cloudinary.com/dhes1pbxl/image/upload/v1715330265/plus_brguwd.svg",
     "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ..."
   }
 ]
